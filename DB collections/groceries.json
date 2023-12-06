@@ -1,0 +1,241 @@
+[
+{
+    "id": 21,
+    "title": "- Daal Masoor 500 grams",
+    "ar_title": "دال ماسور 500 جرام",
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "ar_description":"منتج ذو علامة تجارية عالية الجودة يُحفظ في مكان بارد وجاف",
+    "price": 20,
+    "discountPercentage": 4.81,
+    "rating": 4.44,
+    "stock": 133,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Saaf & Khaas",
+    "category": "groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.png",
+      "https://i.dummyjson.com/data/products/21/2.jpg",
+      "https://i.dummyjson.com/data/products/21/3.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Elbow Macaroni - 400 gm",
+    "ar_title":"معكرونة الكوع - 400 جم",
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "ar_description":"تفاصيل المنتج عن معكرونة بيك بارلور بيج إلبو - 400 جم",
+    "price": 14,
+    "discountPercentage": 15.58,
+    "rating": 4.57,
+    "stock": 146,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Bake Parlor Big",
+    "category": "groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg",
+      "https://i.dummyjson.com/data/products/22/3.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Orange Essence Food Flavou",
+    "ar_title":"نكهة البرتقال جوهر الغذاء",
+    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+    "ar_description":"مواصفات نكهة الطعام بخلاصة البرتقال للكعك والمواد الغذائية المخبوزة",
+    "price": 14,
+    "discountPercentage": 8.04,
+    "rating": 4.85,
+    "stock": 26,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Baking Food Items",
+    "category": "groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg",
+      "https://i.dummyjson.com/data/products/23/3.jpg",
+      "https://i.dummyjson.com/data/products/23/4.jpg",
+      "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "cereals muesli fruit nuts",
+    "ar_title":"لحبوب والموزلي والفواكه والمكسرات",
+    "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+    "ar_description":"الأصلي فوجي الحبوب موسلي 250 جرام مربع حزمة الأصلي فوجي الحبوب موسلي الفاكهة المكسرات رقائق الإفطار الحبوب كسر سريع فوجي الحبوب سيريل سيريل فوجي فوجي",
+    "price": 46,
+    "discountPercentage": 16.8,
+    "rating": 4.94,
+    "stock": 113,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "fauji",
+    "category": "groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg",
+      "https://i.dummyjson.com/data/products/24/3.jpg",
+      "https://i.dummyjson.com/data/products/24/4.jpg",
+      "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Gulab Powder 50 Gram",
+    "ar_title":"جلاب بودرة 50 جرام",
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "ar_description":"مسحوق زهرة الورد الجاف مسحوق الجولاب 50 جرام • يعالج الجروح",
+    "price": 70,
+    "discountPercentage": 13.58,
+    "rating": 4.87,
+    "stock": 47,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Dry Rose",
+    "category": "groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.png",
+      "https://i.dummyjson.com/data/products/25/2.jpg",
+      "https://i.dummyjson.com/data/products/25/3.png",
+      "https://i.dummyjson.com/data/products/25/4.jpg",
+      "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+    ]
+  },
+  
+{
+    "title": "French's Original Crispy Fried Onions, 6 oz Salad Toppings",
+    "ar_title":"البصل المقلي المقرمش الأصلي الفرنسي، 6 أونصة من إضافات السلطة",
+    "description": "French’s® Original Crispy Fried Onions are made with real onions for incredible flavor and that classic crunch. Toss ‘em onto green bean casserole, mashed potatoes, burgers and salads for an exciting pop of crunch and taste the whole family will love.This beloved Thanksgiving staple – hello, Green Bean Casserole – has uses way beyond your holiday meals and holiday sides. Think sprinkled on top of soup or salad, or even as breading for crispy, oven-baked chicken. Feel good about sharing them with everyone – they’re crafted without GMOs or artificial flavor. This French's® Original Crispy Fried Onions is in a Plastic can that is 6 ounces. Store this shelf-stable item at an ambient temperature.",
+    "ar_description":"البصل المقلي المقرمش الأصلي من French's® مصنوع من البصل الحقيقي للحصول على نكهة لا تصدق وتلك القرمشة الكلاسيكية. قم برميها في طبق خزفي من الفاصوليا الخضراء والبطاطا المهروسة والبرغر والسلطات للحصول على نكهة مقرمشة ومذاق سيحبه جميع أفراد العائلة. إن هذا العنصر الأساسي المحبوب في عيد الشكر - مرحبًا، Green Bean Casserole - له استخدامات تتجاوز وجبات عطلتك وجوانب العطلة. فكر في رشها فوق الحساء أو السلطة، أو حتى كخبز للدجاج المقرمش المخبوز في الفرن. أشعر بالرضا تجاه مشاركتها مع الجميع - فهي مصنوعة بدون كائنات معدلة وراثيًا أو نكهة صناعية. هذا البصل المقلي المقرمش الأصلي من French's® موجود في علبة بلاستيكية سعة 6 أونصات. قم بتخزين هذا العنصر المستقر على الرف في درجة حرارة محيطة",
+    "price": 3.47,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 66,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "brand": "Grocery",
+    "category": "groceries",
+    "thumbnail": "https://i5.walmartimages.com/seo/French-s-Original-Crispy-Fried-Onions-6-oz-Salad-Toppings_59c41728-756e-4788-a52c-36ceb4ae1713.fc006917b651a06d55480806d20df71f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/French-s-Original-Crispy-Fried-Onions-6-oz-Salad-Toppings_59c41728-756e-4788-a52c-36ceb4ae1713.fc006917b651a06d55480806d20df71f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/0cbf6041-69f1-4476-b34d-97c810a7f784_1.a375a91855af6cfbc6308e911dd7293a.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/fe3a0b86-67c8-4e5f-9c5a-ea7d7124a333_1.82b40d54fadb931ade248ee96ef508fb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/191774a9-373d-4aa1-8c65-406c929e4e57_1.a50d14ba22b5de4ea3689bc325b0253e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "quantity": 5,
+    "id": 133
+  },
+  {
+    "title": "Diabetic Friendly Cookies | Sugar Free Linzer Tart Cookies with Strawberry Jam | Italian Cookies | Linzer Tortes | Low Cholesterol & Low Sodium | 9 oz Stern’s Bakery",
+    "ar_title":"ملفات تعريف الارتباط الصديقة لمرضى السكر | كوكيز لينزر تارت خالية من السكر مع مربى الفراولة | كوكيز ايطالية | تورتة لينزر | انخفاض الكولسترول وانخفاض الصوديوم | 9 أوقية مخبز ستيرن",
+    "description": "Indulge in these bite-size Linzer tart cookies. Treat yourself to these jelly-filled cookies guilt-free. They have low cholesterol and low sodium and they are sugar-free. Try em, Dunk em Twist em these scrumptious Linzer tart cookies are cookies with a dollop of sugar-free strawberry jam in between and sprinkled with powdered sugar for good measure. They are also kosher certified by the OK & CRC and made daily in our all nut-free facility! Try us today and buy us with confidence!",
+    "ar_description":"انغمس في كعكة لينزر تورتة ذات الحجم الصغير. دلل نفسك بهذه البسكويت المليئة بالهلام دون الشعور بالذنب. لديهم نسبة منخفضة من الكولسترول وانخفاض الصوديوم، كما أنها خالية من السكر. جربها، Dunk em Twist em، ملفات تعريف الارتباط اللذيذة من Linzer Tart عبارة عن ملفات تعريف الارتباط مع قطعة من مربى الفراولة الخالية من السكر بينهما ورشها بالسكر البودرة للحصول على قياس جيد. كما أنها معتمدة للشريعة اليهودية من قبل OK & CRC ويتم تصنيعها يوميًا في جميع منشآتنا الخالية من المكسرات! جربنا اليوم واشترينا بثقة!",
+    "price": 21.45,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 66,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "brand": "Grocery",
+    "category": "groceries",
+    "thumbnail": "https://i5.walmartimages.com/seo/Diabetic-Friendly-Cookies-Sugar-Free-Linzer-Tart-Strawberry-Jam-Italian-Tortes-Low-Cholesterol-Sodium-9-oz-Stern-s-Bakery_006f2efc-c6bc-498c-a334-86d4f660ce55.6724b7fa89326c8b5552701a80d2a66d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Diabetic-Friendly-Cookies-Sugar-Free-Linzer-Tart-Strawberry-Jam-Italian-Tortes-Low-Cholesterol-Sodium-9-oz-Stern-s-Bakery_006f2efc-c6bc-498c-a334-86d4f660ce55.6724b7fa89326c8b5552701a80d2a66d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/4ba6eee7-eb04-4901-953b-0547595abd98.323b852db3f2e62cd025c0b291f7efa4.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/6617cbca-cf6a-45e0-ad57-eba8bbdc5e65.5355664bf10d18f94493ce3b063d2e53.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+    ],
+    "quantity": 5,
+    "id": 134
+  },
+  {
+    "title": "Great Value Original Applesauce, 4 oz, 6 Cups",
+    "ar_title":"صلصة التفاح الأصلية ذات القيمة الرائعة، 4 أونصة، 6 أكواب",
+    "description": "Enjoy the taste of sweet juicy apples in every delicious bite of our Great Value Original Applesauce. With 0 grams of fat, only 80 calories per serving, and no high fructose corn syrup, our yummy applesauce is an excellent choice for the health-conscious consumer. Every container comes with six individual serving cups that contain 4 ounces of applesauce that are perfect for work or school lunches or a quick and nutritious snack anytime! Applesauce is also a great substitute for high-calorie ingredients in your favorite holiday baking recipe. Cut calories in your culinary creations by using a 1:1 swap ratio for butter or oil to make delightfully moist muffins, crumb cakes, and more! If you want a healthy choice and a sweet treat, give yourself the best of both worlds with Great Value Original Applesauce.",
+    "ar_description":"استمتع بمذاق التفاح الحلو في كل قضمة لذيذة من عصير التفاح الأصلي ذو القيمة الرائعة. مع 0 جرام من الدهون، 80 سعرة حرارية فقط لكل حصة، وبدون شراب الذرة عالي الفركتوز، عصير التفاح اللذيذ الخاص بنا هو خيار ممتاز المستهلك المهتم بالصحة. تأتي كل حاوية مع ستة أكواب تقديم فردية تحتوي على 4 أونصات من صلصة التفاح التي تعتبر مثالية لوجبات الغداء في العمل أو المدرسة أو وجبة خفيفة سريعة ومغذية في أي وقت!تعتبر صلصة التفاح أيضًا بديلاً رائعًا للمكونات ذات السعرات الحرارية العالية في المفضلة لديك وصفة خبز الأعياد. قم بتقليل السعرات الحرارية في إبداعاتك الطهوية باستخدام نسبة مبادلة 1:1 للزبدة أو الزيت لصنع فطائر رطبة مبهجة، وفتات الكعك، والمزيد! إذا كنت تريد اختيارًا صحيًا وحلوى، فامنح نفسك أفضل ما في كلا العالمين مع صلصة التفاح الأصلية ذات القيمة الرائعة",
+    "price": 2.34,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 66,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "brand": "Grocery",
+    "category": "groceries",
+    "thumbnail": "https://i5.walmartimages.com/seo/Great-Value-Original-Applesauce-4-oz-6-Cups_99e15529-21e9-4c6c-8d1e-04f04b8f253a.8ae3c08fe7bb97b4f3d2e1bcc8efd375.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Great-Value-Original-Applesauce-4-oz-6-Cups_99e15529-21e9-4c6c-8d1e-04f04b8f253a.8ae3c08fe7bb97b4f3d2e1bcc8efd375.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/b6a00e99-d7ab-4cc7-ab42-5798dae272e4.f1fd2e422b1ded3a20077584c315cbe4.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/fe46af93-751f-4e13-92fa-b7f26c566bf0.5b13082a01908deb5ae0bab9b48b0e5e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/d6ffeb02-9f11-4764-a948-fd657ec8af21.aab0666c3cf62b2382d88af20915fc46.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "quantity": 5,
+    "id": 135
+  },
+  {
+    "title": "Great Value Golden Sweet Whole Kernel Corn, Canned Corn, 15 oz Can",
+    "ar_title":"",
+    "description": "Eating your veggies just got easier with Great Value Whole Kernel Corn. Whether you want to make a vegetable soup, vegetable casserole, or your very own homemade recipe, Great Value Whole Kernel Corn has you covered. With no added chemicals or sugars, Great Value Whole Kernel Corn is picked and packed in the same day, ensuring farm-fresh flavors perfect for delicious, easy, and quick dinner ideas. Great Value Whole Kernel Corn is not only fast and easy to prepare but sure to satisfy. Ready in minutes, all you have to do is warm in a saucepan on the stove or heat in a microwave-safe dish in the microwave.",
+    "ar_description":"تناول الخضار أصبح أسهل مع ذرة النواة الكاملة ذات القيمة الرائعة. سواء كنت ترغب في صنع حساء الخضار، أو طبق خزفي نباتي، أو وصفتك المنزلية الخاصة، فإن ذرة النواة الكاملة ذات القيمة الرائعة ستلبي احتياجاتك. بدون أي مواد كيميائية إضافية أو السكريات، يتم قطف الذرة ذات النواة الكاملة ذات القيمة الكبيرة وتعبئتها في نفس اليوم، مما يضمن نكهات طازجة من المزرعة مثالية لأفكار عشاء لذيذة وسهلة وسريعة. إن الذرة ذات النواة الكاملة ذات القيمة الكبيرة ليست سريعة وسهلة التحضير فحسب، بل من المؤكد أنها سترضي الجميع. . جاهز في دقائق، كل ما عليك فعله هو تسخينه في قدر على الموقد أو تسخينه في طبق آمن للاستخدام في الميكروويف",
+    "price": 0.7,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 66,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "brand": "Grocery",
+    "category": "groceries",
+    "thumbnail": "https://i5.walmartimages.com/seo/Great-Value-Golden-Sweet-Whole-Kernel-Corn-Canned-Corn-15-oz-Can_f10b66a7-2551-4b79-9371-63a7a04251eb.3b7842999d659f6aedbcb4bddfa78233.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Great-Value-Golden-Sweet-Whole-Kernel-Corn-Canned-Corn-15-oz-Can_f10b66a7-2551-4b79-9371-63a7a04251eb.3b7842999d659f6aedbcb4bddfa78233.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/ecc9da37-8233-4059-92a2-052a48b72001.171d223db090699179740b48fca9f506.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/973d7994-8067-458c-b46c-9fc6ad131a2d.0bebbd5462a51b6fb4e8e767cab9fb2a.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/2b08c4f8-c7ad-46f7-aa75-12cf265e7f8d.0e21c1dbef13df5b726e01687dc96562.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "quantity": 5,
+    "id": 136
+  },
+  {
+    "title": "Great Value Golden Sweet Whole Kernel Corn, 8.75 oz Can",
+    "ar_title":"قيمة رائعة من الذرة الذهبية الحلوة الكاملة، 8.75 أونصة",
+    "description":"Take your culinary creations to the next level with Great Value Golden Sweet Whole Kernel Corn. This incredibly versatile vegetable is an excellent accompaniment to a variety of dishes including yummy tacos, burritos, relish, salsa, chowder, and more! It also makes a simple, quick, and easy side dish for your well-rounded meal that all will enjoy. Our Great Value Golden Sweet Whole Kernel Corn has earned our esteemed Good For You label, which means it has met rigorous nutrition criteria informed by the latest nutrition science and authoritative guidance from the 2010 Dietary Guidelines for Americans, U.S. Food and Drug Administration (FDA), U.S. Department of Agriculture (USDA), and Institute of Medicine (IOM). Get creative in the kitchen and enjoy the incredible taste of Great Value Golden Sweet Whole Kernel Corn in your next recipe.",
+    "ar_description":"ارتق بإبداعاتك في الطهي إلى المستوى التالي مع ذرة النواة الكاملة الحلوة الذهبية ذات القيمة الرائعة. هذه الخضروات متعددة الاستخدامات بشكل لا يصدق هي مرافقة ممتازة لمجموعة متنوعة من الأطباق بما في ذلك التاكو اللذيذ، والبوريتو، والمذاق، والصلصة، وحساء الشودر، والمزيد! كما أنه يقدم طبقًا جانبيًا بسيطًا وسريعًا وسهلًا لوجبتك الشاملة التي سيستمتع بها الجميع.لقد حازت ذرة النواة الذهبية الحلوة ذات القيمة الكبيرة لدينا على علامة Good For You الموقرة، مما يعني أنها استوفت معايير التغذية الصارمة التي أبلغت بها أحدث علوم التغذية والإرشادات الرسمية من المبادئ التوجيهية الغذائية للأمريكيين لعام 2010، وإدارة الغذاء والدواء الأمريكية (FDA)، ووزارة الزراعة الأمريكية (USDA)، ومعهد الطب (IOM).كن مبدعًا في المطبخ واستمتع بالطعم الرائع من ذرة الذرة الذهبية الحلوة ذات القيمة الكبيرة في وصفتك القادمة",
+    "price": 0.64,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 66,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "brand": "Grocery",
+    "category": "groceries",
+    "thumbnail": "https://i5.walmartimages.com/seo/Great-Value-Golden-Sweet-Whole-Kernel-Corn-8-75-oz-Can_49d1f684-6786-46d8-b536-f174801cc17c.5fc12d671a32016ff87d10515ffb8bef.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Great-Value-Golden-Sweet-Whole-Kernel-Corn-8-75-oz-Can_49d1f684-6786-46d8-b536-f174801cc17c.5fc12d671a32016ff87d10515ffb8bef.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/316346be-62aa-41f3-a32c-77517685c644.5d759dd129ad0631c8a1258af6293064.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+    ],
+    "quantity": 5,
+    "id": 137
+  }
+]

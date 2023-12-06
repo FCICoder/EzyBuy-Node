@@ -1,0 +1,603 @@
+[
+  {
+    "title": "perfume Oil",
+    "ar_title": "زيت عطري",
+    "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "ar_description": "خصم ضخم ، انطباع أكوا دي جيو من جورجيوأرماني زيت عطر عطر مركز",
+    "price": 13,
+    "discountPercentage": 8.4,
+    "rating": 4.26,
+    "stock": 65,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Impression of Acqua Di Gio",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg",
+      "https://i.dummyjson.com/data/products/11/3.jpg",
+      "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Brown Perfume",
+    "ar_title": "عطر بني",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "ar_description": "عطر Royal_Mirage سبورت براون للرجال والنساء - 120 مل",
+    "price": 40,
+    "discountPercentage": 15.66,
+    "rating": 4,
+    "stock": 52,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Royal_Mirage",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg",
+      "https://i.dummyjson.com/data/products/12/3.png",
+      "https://i.dummyjson.com/data/products/12/4.jpg",
+      "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Fog Scent Xpressio Perfume",
+    "ar_title": "عطر فوج سينت إكسبريسيو",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "ar_description": "تفاصيل المنتج من بست فوج سينت إكسبريسيو عطر 100 مل للرجال عطور باردة تدوم طويلا للرجال",
+    "price": 13,
+    "discountPercentage": 8.14,
+    "rating": 4.59,
+    "stock": 61,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Fog Scent Xpressio",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.png",
+      "https://i.dummyjson.com/data/products/13/3.jpg",
+      "https://i.dummyjson.com/data/products/13/4.jpg",
+      "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+    ]
+  },
+  {
+    "title": "Non-Alcoholic Concentrated Perfume Oil",
+    "ar_title": "زيت عطري مركز غير كحولي",
+    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "ar_description": "الأصلي المنخف® من محل المسك | انطباعنا عن المناخ | 6 مل زيت عطري مركز غير كحولي",
+    "price": 120,
+    "discountPercentage": 15.6,
+    "rating": 4.21,
+    "stock": 114,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Al Munakh",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg",
+      "https://i.dummyjson.com/data/products/14/3.jpg",
+      "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Eau De Perfume Spray",
+    "ar_title": " عطر بخاخ",
+    "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "ar_description": "عطر بخاخ الرحاب الأصلي من الإمارات / المملكة العربية السعودية / اليمن جودة عالية",
+    "price": 30,
+    "discountPercentage": 10.99,
+    "rating": 4.7,
+    "stock": 105,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Lord - Al-Rehab",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg",
+      "https://i.dummyjson.com/data/products/15/3.jpg",
+      "https://i.dummyjson.com/data/products/15/4.jpg",
+      "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Hyaluronic Acid Serum",
+    "ar_title": "مصل حمض الهيالورونيك",
+    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "ar_description": "لورا©آل باريس تقدم مصل هيالورون إكسبرت المجدد المكون من 1.5٪ حمض الهيالورونيك",
+    "price": 19,
+    "discountPercentage": 13.31,
+    "rating": 4.83,
+    "stock": 110,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "L'Oreal Paris",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.png",
+      "https://i.dummyjson.com/data/products/16/2.webp",
+      "https://i.dummyjson.com/data/products/16/3.jpg",
+      "https://i.dummyjson.com/data/products/16/4.jpg",
+      "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Tree Oil 30ml",
+    "ar_title": "زيت الشجرة 30 مل",
+    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+    "ar_description": "يحتوي زيت شجرة الشاي على عدد من المركبات ، بما في ذلك terpinen-4-ol ، التي ثبت أنها تقتل بعض البكتيريا",
+    "price": 12,
+    "discountPercentage": 4.09,
+    "rating": 4.52,
+    "stock": 78,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Hemani Tea",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg",
+      "https://i.dummyjson.com/data/products/17/3.jpg",
+      "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Oil Free Moisturizer 100ml",
+    "ar_title": "مرطب خالي من الزيوت 100 مل",
+    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "ar_description": "مرطب خال من الزيوت الجلدية مع عامل حماية من الشمس 20 مصمم خصيصا مع السيراميد وحمض الهيالورونيك وواقي الشمس",
+    "price": 40,
+    "discountPercentage": 13.1,
+    "rating": 4.56,
+    "stock": 88,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Dermive",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg",
+      "https://i.dummyjson.com/data/products/18/3.jpg",
+      "https://i.dummyjson.com/data/products/18/4.jpg",
+      "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Skin Beauty Serum.",
+    "ar_title": "مصل تجميل البشرة",
+    "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+    "ar_description": "اسم المنتج: روريك الكولاجين حمض الهيالورونيك الأبيض الوجه مصل الأرزالوزن الصافي: 15 م",
+    "price": 46,
+    "discountPercentage": 10.68,
+    "rating": 4.42,
+    "stock": 54,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "ROREC White Rice",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg",
+      "https://i.dummyjson.com/data/products/19/3.png",
+      "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Freckle Treatment Cream- 15gm",
+    "ar_title": "كريم علاج النمش - 15 جم",
+    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+    "ar_description": "Fair &Clear هو كريم النمش النقي الوحيد في باكستان الذي يساعد على تلاشي النمش والبقع الداكنة والأصباغ. مستوى الزئبق هو 0٪ ، لذلك لا توجد آثار جانبية",
+    "price": 70,
+    "discountPercentage": 16.99,
+    "rating": 4.06,
+    "stock": 140,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Fair & Clear",
+    "category": "Beauty",
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg",
+      "https://i.dummyjson.com/data/products/20/3.jpg",
+      "https://i.dummyjson.com/data/products/20/4.jpg",
+      "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+    ]
+  },
+  {
+    "title": "Coach New York Eau de Parfum, Perfume for Women, 3 oz",
+    "ar_title": "Coach New York Eau de Parfum, عطر للنساء، 3 أونصة",
+    "description": "Coach the Fragrance by Coach is a Floral fragrance for women. Coach the Fragrance was launched in 2016. Coach the Fragrance was created by Juliette Karagueuzoglou and Anne Flipo. Top notes are Raspberry Leaf, Pear and Pink Pepper; middle notes are Turkish Rose, Gardenia and Cyclamen; base notes are Suede, Musk, Cashmeran and Sandalwood.",
+    "ar_description": "كوتش ذا فراجران من كوتش هو عطر زهري للنساء. كوتش ذا فراجرانس تم إصداره عام 2016. تم إنشاء Coach the Fragrance بواسطة جولييت كاراجوزوغلو وآن فليبو. مقدمة العطر أوراق التوت, الكمثرى و الفلفل الوردي; المكونات الوسطى هي الورد التركي, الغردينيا و بخور مريم; قاعدة العطر تتكون من الجلد المدبوغ, المسك, الكشمير و خشب الصندل",
+    "price": 39,
+    "discountPercentage": 9.34,
+    "rating": 4.9,
+    "stock": 228,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 228,
+    "brand": "Coach",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Coach-New-York-Eau-de-Parfum-Perfume-for-Women-3-oz_57105818-af20-49d8-a9d1-22d5cb9bc9fe.529f819db27e7e51ea8f7ff9d46d45bd.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/088a57f1-c511-4a81-860a-51c635695ad9.9f06a581751ec658fa0225f510c9530a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "favorite": true,
+    "updatedAt": {
+      "$date": "2023-11-07T09:48:26.426Z"
+    }
+  },
+  {
+    "title": "Coach New York Eau De Toilette Spray, Cologne for Men, 3.3 oz",
+    "ar_title": "Coach New York Eau de Toilette Spray, كولونيا للرجال، 3.3 أونصة",
+    "description": "Coach For Men Eau De Toilette takes you on a journey of endless possibilities, evoking a sense of freedom that comes from the energy and spontaneity of New York City. A modern fragrance which combines fresh, energetic top notes and a skin-like warm sensuality in the amber, woody base notes. Masculine yet refined, the fragrance starts with cool, fresh green Nashi pear, contrasted with spicy cardamom, and finishes with a textured vetiver base note, creating an aromatic, woody scent. The design bottle is emblematic of the Coach brand and features several iconic codes: turnlock, hangtag, carriage logo engraving.",
+    "ar_description": "يأخذك Coach For Men Eau De Toilette في رحلة من الاحتمالات التي لا حصر لها ، مما يثير إحساسا بالحرية التي تأتي من طاقة وعفوية مدينة نيويورك. عطر عصري يجمع بين النفحات العليا المنعشة والحيوية والجاذبية الدافئة التي تشبه البشرة في النفحات الأساسية الخشبية الكهرمانية. يبدأ العطر بكمثرى ناشي الأخضر البارد والمنعش ، ويتناقض مع الهيل الحار ، وينتهي بنفحات أساسية من نجيل الهند ، مما يخلق رائحة خشبية عطرية. بوت التصميم",
+    "price": 40.1,
+    "discountPercentage": 12.6,
+    "rating": 4.9,
+    "stock": 740,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 740,
+    "brand": "Coach",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Coach-New-York-Eau-De-Toilette-Spray-Cologne-for-Men-3-3-oz_83ce91df-cbc8-4f48-8c28-a7c67a009f64.8a2b9c2d686c86edcbf944c9bac63856.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/42372c79-f061-442c-94d6-6545db4fbd21.0a73a7bebfc34523296ee2bce4d44993.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/215b0f4b-93b0-4b68-8f94-ac9eb1ea6ebf.1aaf03b5e241f274e2e06642f4bbbe91.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "favorite": true,
+    "updatedAt": {
+      "$date": "2023-11-07T09:35:22.556Z"
+    }
+  },
+  {
+    "title": "Coach Dreams Eau De Parfum, Perfume for Women, 3 oz",
+    "ar_title": "Coach Dreams Eau de Parfum, عطر للنساء، 3 أونصة",
+    "description": "Coach Dreams Eau De Parfum, Perfume for Women, 3 Oz. Inspired by the dreamer in all of us, Coach Dreams takes us on a road trip through the American West on a quest for adventure and freedom.",
+    "ar_description": "Coach Dreams Eau de Parfum، عطر للنساء، 3 أونصة. مستوحى من الحالم بداخلنا جميعا ، يأخذنا Coach Dreams في رحلة برية عبر الغرب الأمريكي في رحلة بحثا عن المغامرة والحرية",
+    "price": 40.99,
+    "discountPercentage": 6.6,
+    "rating": 4.9,
+    "stock": 450,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 450,
+    "brand": "Coach",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Coach-Dreams-Eau-De-Parfum-Perfume-for-Women-3-oz_9e2fdd73-cf27-4695-a108-3ffca0427aaa_1.1cb24183d20eb18408b2b53b5f343a11.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/a34ab430-a5f2-41f1-8300-521dd871a126.eb87b0879e7bf7487500256bd9aab0a4.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+    ],
+    "favorite": true,
+    "updatedAt": {
+      "$date": "2023-11-07T09:29:06.415Z"
+    }
+  },
+  {
+    "title": "Coach Floral Blush Eau De Parfum Spray, Perfume for Women, 3 oz",
+    "ar_title": "Coach Floral Blush Eau de Parfum Spray, عطر للنساء، 3 أونصة",
+    "description": "Coach Dreams Eau De Parfum, Perfume for Women, 3 Oz. Inspired by the dreamer in all of us, Coach Dreams takes us on a road trip through the American West on a quest for adventure and freedom.",
+    "ar_description": "Coach Dreams Eau de Parfum، عطر للنساء، 3 أونصة. مستوحى من الحالم بداخلنا جميعا ، يأخذنا Coach Dreams في رحلة برية عبر الغرب الأمريكي في رحلة بحثا عن المغامرة والحرية",
+    "price": 39.8,
+    "discountPercentage": 8.4,
+    "rating": 4.7,
+    "stock": 320,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 320,
+    "brand": "Coach",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Coach-Floral-Blush-Eau-De-Parfum-Spray-Perfume-for-Women-3-oz_cbb33cd4-8817-467e-80ec-268048b350fd.1d07055211cd92a7f192ef198da73aa8.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/c1b4f5d6-025a-4dba-a48a-5b9845f6323d_1.d84b05614ba868c66f3949860378dd67.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+    ],
+    "favorite": true,
+    "updatedAt": {
+      "$date": "2023-11-08T06:13:19.376Z"
+    }
+  },
+  {
+    "title": "Coach Poppy Eau De Parfum, Perfume for Women, 3.4 oz",
+    "ar_title": "Coach Poppy Eau de Parfum, عطر للنساء، 3.4 أونصة",
+    "description": "Coach Dreams Eau De Parfum, Perfume for Women, 3 Oz. Inspired by the dreamer in all of us, Coach Dreams takes us on a road trip through the American West on a quest for adventure and freedom.",
+    "ar_description": "Coach Dreams Eau de Parfum، عطر للنساء، 3 أونصة. مستوحى من الحالم بداخلنا جميعا ، يأخذنا Coach Dreams في رحلة برية عبر الغرب الأمريكي في رحلة بحثا عن المغامرة والحرية",
+    "price": 35.43,
+    "discountPercentage": 4.3,
+    "rating": 4.6,
+    "stock": 320,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 320,
+    "brand": "Coach",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/asr/28195441-e46d-4b89-857d-e54075f46f3b.24fcca03484fbeb888b5e3612de999eb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/Coach-Poppy-Eau-De-Parfum-Perfume-for-Women-3-4-oz_927f4d10-7920-4fd0-977f-608420821541.48f83bf2d383ee8eef957769c9af3d65.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/0f5556c5-59f1-460a-9f85-578ddeeb61ba_1.9bad6fbf0ee2e7a0a8b5efebdff26b82.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/9544a182-8294-4832-b06b-4e9886529917.51a60af6dd3bd2cc9df5fc4ffb0972f5.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+    ],
+    "favorite": true,
+    "updatedAt": {
+      "$date": "2023-11-07T01:54:26.390Z"
+    }
+  },
+  {
+    "title": "Hair Dryer, NEXPURE 1800W Professional Ionic Hairdryer for Hair Care, Powerful Hot/Cool Wind Blow Dryer, 3 Magnetic Attachments, ETL, UL and ALCI Safety Plug (Dark Grey)",
+    "ar_title": "مجفف شعر ، مجفف شعر أيوني احترافي بقوة 1800 واط للعناية بالشعر ، مجفف نفخ رياح قوي ساخن / بارد ، 3 ملحقات مغناطيسية ، قابس أمان ETL و UL و ALCI (رمادي غامق)",
+    "description": "We upgraded our hairdryer to Standrad ETL & UL approved US ALCI Safety Plug to better protect you during hair drying. Designed with centrifugal 18 fan blades, ultra-strong permanent magnet motor, produce high-speed stable airflow for the fastest drying. Hand-held lightweight around 410g/14.46oz, reducing the burden on your shoulder when using, just enjoy your hair care! Built with dust-free fan blades, the non-removable mesh back cover(wash free) prevents hair from getting sucked into the blow dryer. With Inner Cylinder Motor - Innovative technology for noise reduction, explosion-proof and low radiation: reduce more electromagnetic field radiation than similar hair dryers, which makes our dryer safer and more reliable, suitable for old and young people to do a professional hair salon at home.",
+    "ar_description": "قمنا بترقية مجفف الشعر الخاص بنا إلى Standrad ETL و UL معتمد من US ALCI Safety Plug لحمايتك بشكل أفضل أثناء تجفيف الشعر. مصممة بشفرات مروحة تعمل بالطرد المركزي 18 ، ومحرك مغناطيسي دائم قوي للغاية ، وتنتج تدفق هواء مستقر عالي السرعة لأسرع تجفيف. محمول باليد خفيف الوزن حوالي 410 جم / 14.46 أونصة ، مما يقلل العبء على كتفك عند الاستخدام ، فقط استمتع بالعناية بشعرك! مصنوع من شفرات مروحة خالية من الغبار ، الغطاء الخلفي الشبكي غير القابل للإزالة (خالي من الغسيل) يمنع الشعر من الامتصاص في الضربة د",
+    "price": 35.99,
+    "discountPercentage": 6.2,
+    "rating": 4.5,
+    "stock": 420,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 420,
+    "brand": "NEXPURE",
+    "category": "Beauty",
+    "images": [
+      "https://i5.walmartimages.com/seo/Hair-Dryer-NEXPURE-1800W-Professional-Ionic-Hairdryer-Care-Powerful-Hot-Cool-Wind-Blow-3-Magnetic-Attachments-ETL-UL-ALCI-Safety-Plug-Dark-Grey_75f298b0-272d-462a-9a2d-e2f56a5a4f96.2d29f4a7d796b0bdf374d03373c21069.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/3bca0c87-db98-4d28-a81f-4b0697eb3b24.05e28e00b3847c72929a65924a43ffbc.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/efbee6db-94f7-4a76-b506-cb03851b3d01.c97c01133317a2153aeaa706a999a01e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "NEXPURE Skin Scrubber Face Spatula, Skin Spatula Pore Cleaner Blackhead Remover Tools for Facial Deep Cleansing-4 Modes,White",
+    "ar_title": "NEXPURE سكين سكرين سكفير ملعقة للوجه، ملعقة للبشرة منظف المسام أدوات مزيل الرؤوس السوداء للتنظيف العميق للوجه -4 أوضاع، أبيض",
+    "description": "NEXPURE is a 5-in-1 ultrasonic facial skin spatula,� blue light firming, red light skin rejuvenation, 24000 times/second high-frequency ultrasonic deep cleaning, lifting & serum infusion to reveal radiant skin. An essential addition to any beauty routine, treatment with the NEXPURE simply starts with washing the face with water, ideally opening the pores through steaming or a hot towel. The diverse multi-modes of the NEXPURE allow it to bring benefits to boost the radiance of your skin.",
+    "ar_description": "NEXPURE عبارة عن ملعقة بشرة الوجه بالموجات فوق الصوتية 5 في 1 ، وشد الضوء الأزرق ، وتجديد شباب البشرة بالضوء الأحمر ، والتنظيف العميق بالموجات فوق الصوتية عالية التردد 24000 مرة / ثانية ، والرفع وتسريب المصل للكشف عن بشرة مشرقة. إضافة أساسية لأي روتين جمالي ، يبدأ العلاج باستخدام NEXPURE ببساطة بغسل الوجه بالماء ، وفتح المسام بشكل مثالي من خلال التبخير أو منشفة ساخنة. تسمح الأوضاع المتعددة المتنوعة لجهاز NEXPURE بتحقيق فوائد لتعزيز إشراق بشرتك",
+    "price": 18.99,
+    "discountPercentage": 9.3,
+    "rating": 4.6,
+    "stock": 140,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 140,
+    "brand": "NEXPURE",
+    "category": "Beauty",
+    "images": [
+      "https://i5.walmartimages.com/seo/NEXPURE-Skin-Scrubber-Face-Spatula-Skin-Spatula-Pore-Cleaner-Blackhead-Remover-Tools-for-Facial-Deep-Cleansing-4-Modes-White_fe1a1c0c-0e86-42dd-b5ba-4982fd7ffe9f.9300a5e254dc91f5f14df4e743d28485.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/8eb783e1-92f4-419d-b260-7b6d76c22f8d.39715f45bf0465671c3cd88528988e06.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/d4635142-6de5-40d1-8333-23f3250b96b4.01d7dd879be11848e605ee1655d27e96.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "NEXPURE Laser Hair Removal Device, Permanent Painless for Women and Men Body Hair Removal with Set-in Cooling for Facial Upper Lip Armpit Bikini Line Pubic Back Leg",
+    "ar_title": "جهاز إزالة الشعر بالليزر NEXPURE ، دائم غير مؤلم للنساء والرجال إزالة شعر الجسم مع تبريد ثابت للوجه الشفة العليا الإبط بيكيني خط العانة الخلفية الساق",
+    "description": "NEXPURE employs the latest IPL laser hair removal technology of 2023, breaking the scalp's cycle of regeneration, achieving smooth and radiant skin in 8 weeks, and achieving permanent hair removal in approximately 2 months. Weeks 1-4: Use 2-3 times per week; Weeks 5-6: Use twice a week, deeply penetrating hair follicles, removing hair from the root; Weeks 7-8: Use once a week; hair becomes progressively thinner and growth stops; Week 8 and beyond: Use 1-2 times per week, adjusting usage frequency based on hair growth conditions. The latest IPL laser hair removal of 2023 triggers upon contact with your skin, causing minimal discomfort. Laser hair removal precisely targets the scalp's roots. Even coarse and thick scalp hair can be painlessly removed.",
+    "ar_description": "تستخدم NEXPURE أحدث تقنيات إزالة الشعر بالليزر IPL لعام 2023 ، مما يكسر دورة تجديد فروة الرأس ، ويحقق بشرة ناعمة ومشرقة في 8 أسابيع ، ويحقق إزالة دائمة للشعر في حوالي شهرين. الأسابيع 1-4: استخدم 2-3 مرات في الأسبوع ؛ الأسابيع 5-6: استخدم مرتين في الأسبوع ، اختراق بصيلات الشعر بعمق ، وإزالة الشعر من الجذر. الأسابيع 7-8: يستخدم مرة واحدة في الأسبوع. يصبح الشعر أرق تدريجيا ويتوقف النمو ؛ الأسبوع 8 وما بعده: استخدم 1-2 مرات في الأسبوع ، مع ضبط تكرار الاستخدام",
+    "price": 69.88,
+    "discountPercentage": 5.7,
+    "rating": 4.6,
+    "stock": 260,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 260,
+    "brand": "NEXPURE",
+    "category": "Beauty",
+    "images": [
+      "https://i5.walmartimages.com/seo/NEXPURE-Laser-Hair-Removal-Device-Permanent-Painless-Women-Men-Body-Set-in-Cooling-Facial-Upper-Lip-Armpit-Bikini-Line-Pubic-Back-Leg_f8dc5a70-d2c6-4ca4-b540-82ed88a78bd5.7dd82806f05037522fbca4f585d5284f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/7da77cd5-285e-45fd-9c0f-7a28b71af2f4.d93bad46cead2d375f704766a9862031.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/4a4b5a80-9ada-433c-a125-fb77b034e203.1b7496148a8cc8499653af05a95de9aa.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "Equate Beauty Nail File, Black 100/180",
+    "ar_title": "ايكويت بيوتي مبرد أظافر، اسود 100/180",
+    "description": "Give your nails the best possible care with the Equate Beauty Black 100/180 Nail File. This double-sided, heavy-duty nail file is coated on one side with coarse 180 grit that's ideal for filing and shaping artificial nails. The other side is coated with medium 100 grit, perfect for shaping and filing natural nails. This elegant black file is unisex and easy to care for and clean just wash it with antibacterial soap and allow it to dry to disinfect. Keep your nails trim and attractive with Equate Beauty Black 100/180 Nail File.Equate Beauty understands that beauty isn't just skin deep. With a large selection of the latest beauty products Equate Beauty helps you be your best you.",
+    "ar_description": "امنحي أظافرك أفضل عناية ممكنة مع مبرد أظافر ايكويت بيوتي بلاك 100/180. مبرد الأظافر شديد التحمل على الوجهين مغطى على جانب واحد ب 180 حبيبة رملية خشنة مثالية لبرد الأظافر الاصطناعية وتشكيلها. الجانب الآخر مغطى ب 100 حبيبة رملية متوسطة ، مما يجعله مثاليا لتشكيل الأظافر الطبيعية وحفظها. هذا المبرد الأسود الأنيق للجنسين ويسهل العناية به وتنظيفه فقط اغسله بالصابون المضاد للبكتيريا واتركه يجف للتطهير. حافظي على أظافرك مشذبة وجذابة مع ايكويت",
+    "price": 0.94,
+    "discountPercentage": 9.7,
+    "rating": 4.3,
+    "stock": 360,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 360,
+    "brand": "Equate",
+    "category": "Beauty",
+    "images": [
+      "https://i5.walmartimages.com/seo/Equate-Beauty-Nail-File-Black-100-180_b7b54bf7-213d-491b-bcc7-e869bfcb16af.18e279f0063c627ad48191c1307a414b.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/2f6ed2a8-d281-430f-8cf8-995895b19d84.1df8951609f3d1713d90d83cfded33ae.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/1630ab34-347e-4a27-acf7-97a197232a48.9a55f6ca1d2f8e4c9986d6b359fa4ba5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "Equate Beauty All Day Moisturizing Sunscreen Lotion for Normal Skin, Broad Spectrum SPF 15, 6 Fl oz",
+    "ar_title": "ايكويت بيوتي لوشن واقي من الشمس مرطب طوال اليوم للبشرة العادية ، واسع الطيف SPF 15 ، 6 أونصة سائلة",
+    "description": "Equate Beauty All-Day Moisturizing Lotion with Sunscreen is an all-day moisturizer that gives skin a complete balance of moisturizing ingredients for healthy-looking skin. With broad-spectrum UVA and UVB protection and SPF 15 to help prevent premature skin damage, this formula helps your skin stay younger-looking. This beauty lotion is reef-friendly and enriched with Vitamin E and nourishing beauty moisture that absorbs quickly into the skin and lasts all day to help your skin stay soft, smooth, and beautiful. This non-greasy, non-comedogenic, and dermatologist-tested lotion results in glowing, beautiful, healthy-looking skin. Love the way you feel with Equate Beauty All-Day Moisturizing Lotion with Sunscreen.Equate Beauty understands that beauty isn't just skin deep. With a large selection of the latest beauty products, Equate Beauty helps you be your best you.",
+    "ar_description": "لوشن ايكويت بيوتي المرطب طوال اليوم مع واقي الشمس هو مرطب يدوم طوال اليوم يمنح البشرة توازنا كاملا من مكونات الترطيب للحصول على بشرة صحية. مع حماية واسعة الطيف من الأشعة فوق البنفسجية UVA و UVB وعامل حماية من الشمس 15 للمساعدة في منع تلف الجلد المبكر ، تساعد هذه التركيبة بشرتك على البقاء أصغر سنا. غسول الجمال هذا صديق للشعاب المرجانية وغني بفيتامين E ورطوبة الجمال المغذية التي تمتصها البشرة بسرعة وتستمر طوال اليوم لمساعدة بشرتك على البقاء ناعمة وسلسة ،",
+    "price": 4.97,
+    "discountPercentage": 1.7,
+    "rating": 4.5,
+    "stock": 360,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 360,
+    "brand": "Equate",
+    "category": "Beauty",
+    "images": [
+      "https://i5.walmartimages.com/seo/Equate-Beauty-All-Day-Moisturizing-Sunscreen-Lotion-for-Normal-Skin-Broad-Spectrum-SPF-15-6-Fl-oz_0f6fe5c9-a88f-4618-9a16-9c7c0354639b.6f8c6172bdae75e5eeccf1b05a5df72a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/13c4c1a0-aa3e-45c5-a144-44712e75ea92.3f83bc7ed7c221a6427e18c359ac9ef7.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/8e538d26-8c18-4333-b500-c28727756043.1761138781eb0b8b8fc4db245fd43cd1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "Sally Hansen Color Therapy Nail Color, Burnished Bronze, 0.5 oz, Color Nail Polish, Nail Polish, Nail Polish Colors, Restorative, Argan Oil Formula, Instantly Moisturizes",
+    "ar_title": "Sally Hansen Color Therapy Nail Color, برونز مصقول، 0.5 أونصة، طلاء أظافر ملون، طلاء أظافر، ألوان طلاء أظافر، ترميمي، تركيبة زيت الأرغان، ترطب على الفور",
+    "description": "Sally Hansen Color Therapy Nail Color Sally Hansen Color Therapy Nail Color: Color + Care! Beautiful colors infused with argan oil provide intense nourishment.Upon use, 9 out of 10 women experienced noticeable improvement on natural nails. In this polish, you'll find your new go-to with up to 10 days fade-proof, chip-resistant wear and intensive nourishment for healthy looking nails.Pair with the Top Coat to extend shine and wear. Don't forget your cuticle oil for instantly healthier nails and cuticles. Color therapy, gorgeous color that cares while you wear! The patented argan oil formula hydrates & nourishes healthy-looking nails.",
+    "ar_description": "سالي هانسن لون العلاج بالألوان لون الأظافر سالي هانسن لون الأظافر: اللون + الرعاية! توفر الألوان الجميلة الممزوجة بزيت الأرغان تغذية مكثفة. عند الاستخدام ، شهدت 9 من كل 10 نساء تحسنا ملحوظا في الأظافر الطبيعية. في هذا الملمع ، ستجدين ما تفضله مع ما يصل إلى 10 أيام من التآكل المقاوم للبهتان ومقاومة للرقائق وتغذية مكثفة لأظافر صحية المظهر. ارتديه مع طبقة علوية لإطلالة أكثر لمعانا وارتداءه. لا تنسي زيت البشرة للحصول على أظافر أكثر صحة على الفور",
+    "price": 4.99,
+    "discountPercentage": 2.7,
+    "rating": 4.5,
+    "stock": 310,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 310,
+    "brand": "Sally Hansen",
+    "category": "Beauty",
+    "thumbnail": "https://th.bing.com/th?q=Sally+Hansen+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=en-XA&cc=EG&setlang=en&adlt=strict&t=1&mw=247",
+    "images": [
+      "https://i5.walmartimages.com/seo/Sally-Hansen-Color-Therapy-Nail-Color-Burnished-Bronze-0-5-oz-Polish-Polish-Colors-Restorative-Argan-Oil-Formula-Instantly-Moisturizes_2aafc6c9-a66f-490d-92ce-c97047859263_1.76892e5d61ef8881fa63c45268048aa6.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/d76a0e58-aa54-42f6-8f02-b25756ad656f.bc15050a1ecf74bd58013d4a019f139a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/4c7537fc-7513-4cfd-a924-4916ec635ed0.6b6750c4266bd34de3c5e70e6b50fec1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "Sally Hansen Perfect Manicure Press on Nail Kit, Coffin, What the Shell, 24pcs",
+    "ar_title": "سالي هانسن مانيكير مثالي اضغط على طقم أظافر ، تابوت ، ما شل ، 24 قطعة",
+    "description": "Sally Hansen Color Therapy Nail Color Sally Hansen Color Therapy Nail Color: Color + Care! Beautiful colors infused with argan oil provide intense nourishment.Upon use, 9 out of 10 women experienced noticeable improvement on natural nails. In this polish, you'll find your new go-to with up to 10 days fade-proof, chip-resistant wear and intensive nourishment for healthy looking nails.Pair with the Top Coat to extend shine and wear. Don't forget your cuticle oil for instantly healthier nails and cuticles. Color therapy, gorgeous color that cares while you wear! The patented argan oil formula hydrates & nourishes healthy-looking nails.",
+    "ar_description": "سالي هانسن لون العلاج بالألوان لون الأظافر سالي هانسن لون الأظافر: اللون + الرعاية! توفر الألوان الجميلة الممزوجة بزيت الأرغان تغذية مكثفة. عند الاستخدام ، شهدت 9 من كل 10 نساء تحسنا ملحوظا في الأظافر الطبيعية. في هذا الملمع ، ستجدين ما تفضله مع ما يصل إلى 10 أيام من التآكل المقاوم للبهتان ومقاومة للرقائق وتغذية مكثفة لأظافر صحية المظهر. ارتديه مع طبقة علوية لإطلالة أكثر لمعانا وارتداءه. لا تنسي زيت البشرة للحصول على أظافر أكثر صحة على الفور",
+    "price": 6.73,
+    "discountPercentage": 4.7,
+    "rating": 4.1,
+    "stock": 370,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 370,
+    "brand": "Sally Hansen",
+    "category": "Beauty",
+    "thumbnail": "https://th.bing.com/th?q=Sally+Hansen+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=en-XA&cc=EG&setlang=en&adlt=strict&t=1&mw=247",
+    "images": [
+      "https://i5.walmartimages.com/seo/Sally-Hansen-Perfect-Manicure-Press-on-Nail-Kit-Coffin-What-the-Shell-24pcs_d2ae4776-a965-4a0c-b047-97c8a058daf3.3609be1d7ac0db29047012996e74922a.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/b8680e5c-2d46-4f97-ace0-b21a10c922eb.13ffe661de7d51b9e0de0e446709dda1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/d216ef88-422d-4880-a2af-4332acb5f92e.1601a591af224bd44885d040409b20a9.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "Sally Hansen Airbrush Legs Lotion, Medium, 4.4 oz, Water and Transfer-Resistant",
+    "ar_title": "لوشن سالي هانسن للساقين، متوسط، 4.4 أونصة، مقاوم للماء والنقل",
+    "description": "Sally Hansen Airbrush Legs Lotion, Medium, 4.4 oz'\n'Now you can give your legs a makeover in just seconds. No sun. No salon. No streaks. Just flawless-looking and irresistible legs. This lightweight leg makeup, enriched with Palmaria Extract, enhances the coverage of freckles, veins, and imperfections. It's water and transfer resistant. Bare legs are nice. Airbrush Legs are irresistible.",
+    "ar_description": "سالي هانسن لوشن الساقين البخاخة، متوسط، 4.4 أونصة يمكنك الآن تغيير ساقيك في ثوان معدودة. لا شمس. لا صالون. لا خطوط. فقط أرجل لا تشوبها شائبة ولا تقاوم. مكياج الساق خفيف الوزن هذا ، الغني بخلاصة بالماريا ، يعزز تغطية النمش والأوردة والعيوب. إنه مقاوم للماء والنقل. الساقين العارية لطيفة. أرجل البخاخة لا تقاوم",
+    "price": 11.19,
+    "discountPercentage": 2.2,
+    "rating": 4,
+    "stock": 130,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 130,
+    "brand": "Sally Hansen",
+    "category": "Beauty",
+    "thumbnail": "https://th.bing.com/th?q=Sally+Hansen+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=en-XA&cc=EG&setlang=en&adlt=strict&t=1&mw=247",
+    "images": [
+      "https://i5.walmartimages.com/seo/Sally-Hansen-Airbrush-Legs-Lotion-Medium-4-4-oz-Water-and-Transfer-Resistant_cbbc1d24-49fa-4a2f-b535-03fd72903c0d.e73ebaa24c2b43ab1dacafc02f5172bd.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/e79dccc7-e521-4855-affc-8e8dbdf057bc.4104266a7767d94b342f806281e7fd83.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/782393c2-50d4-46b6-9ec2-773142485eac.3ae3cf4b08aba8521ba7b3751c0dd0ee.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "FACEMADE Nail Clipper, Stainless Steel Fingernails & Toenails Clippers & Nail File Sharp with Case, Set of 3",
+    "ar_title": "فيس ميد ماكينة قص أظافر، مقصات أظافر وأظافر أصابع ستانلس ستيل ومبرد أظافر شارب مع حافظة، طقم من 3 قطع",
+    "description": "This nail clipper set has developed to match different types of nails for different people, It is suitable for men, women, elderly and children, different types of nail size and shape, Nail clippers are available in large and small sizes, It provides you with the most appropriate tools for fingernails and toenails, It is an essential tool for home life.",
+    "ar_description": "تم تطوير مجموعة مقص الأظافر هذه لتتناسب مع أنواع مختلفة من الأظافر لأشخاص مختلفين ، وهي مناسبة للرجال والنساء وكبار السن والأطفال ، وأنواع مختلفة من حجم وشكل الأظافر ، تتوفر مقصات الأظافر بأحجام كبيرة وصغيرة ، وتوفر لك أنسب الأدوات لأظافر اليدين والقدمين ، وهي أداة أساسية للحياة المنزلية",
+    "price": 9.99,
+    "discountPercentage": 1.99,
+    "rating": 4.6,
+    "stock": 700,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 700,
+    "brand": "FACEMADE",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/seo/FACEMADE-6-Pcs-Triangle-Velour-Face-Powder-Puff-Set-with-Case-Wet-and-Dry-Use-Beauty-Makeup-Tool_c44022fe-be35-4de5-a051-809ea03726c0.3e606878bbca53ef70171a02ba5d6226.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/FACEMADE-Nail-Clipper-Stainless-Steel-Fingernails-Toenails-Clippers-Nail-File-Sharp-with-Case-Set-of-3_0fb25bdb-a61a-4876-9227-95e8bdbee04a.0af1425dab40cc76b270d3b5927cba3f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/1de209bb-b95b-4802-915d-b4dd74ab7890.eabc2b04725359a04798baca86813f39.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/cc008b77-aa0e-4d9e-bab6-4dd9e909f4f7.7bf2a997de2e859cff6bd3c6b7cebe35.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "FACEMADE 6 Pcs Triangle Velour Face Powder Puff Set with Case, Wet and Dry Use Beauty Makeup Tool",
+    "ar_title": "FACEMADE 6 قطع مثلث القطيفة الوجه مسحوق نفخة مجموعة مع حالة ، الاستخدام الرطب والجاف أداة ماكياج الجمال",
+    "description": "High quality material: FACEMADE powder puff set is made of cushiony sponge and soft velour. Apply you impeccable look and smooth touch. This special kind of powder applicator grips powder well but doesn’t absorb too much.'\n'Double shaped design: This powder puff is easier and faster to apply foundation. You can use the round side for the cheeks and forehead, the triangle side is for hard-to-reach areas, around eyes and the nose.",
+    "ar_description": "مواد ذات جودة عالية: مجموعة نفخة مسحوق FACEMADE مصنوعة من الإسفنج المبطن والقطيفة الناعمة. تطبيق لك نظرة لا تشوبها شائبة ولمسة ناعمة. هذا النوع الخاص من أدوات تطبيق البودرة يمسك المسحوق جيدا ولكنه لا يمتص الكثير. تصميم مزدوج الشكل: نفخة البودرة هذه أسهل وأسرع لتطبيق كريم الأساس. يمكنك استخدام الجانب المستدير للخدين والجبهة ، والجانب المثلث مخصص للمناطق التي يصعب الوصول إليها ، حول العينين والأنف",
+    "price": 5.39,
+    "discountPercentage": 8.99,
+    "rating": 4.8,
+    "stock": 400,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 400,
+    "brand": "FACEMADE",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/seo/FACEMADE-6-Pcs-Triangle-Velour-Face-Powder-Puff-Set-with-Case-Wet-and-Dry-Use-Beauty-Makeup-Tool_c44022fe-be35-4de5-a051-809ea03726c0.3e606878bbca53ef70171a02ba5d6226.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/FACEMADE-6-Pcs-Triangle-Velour-Face-Powder-Puff-Set-with-Case-Wet-and-Dry-Use-Beauty-Makeup-Tool_c44022fe-be35-4de5-a051-809ea03726c0.3e606878bbca53ef70171a02ba5d6226.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/59bc623d-baf8-4de1-869c-241b575173cc.383c86d2092444300324a0c6ccff9af8.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/71b49aaf-09a0-4165-b59c-1a0e25e46934.56214e7581fb5086ff94e2b1b3575850.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "title": "FACEMADE 4 Pcs Tweezers Set, Stainless Steel Hair Removal Makeup Tool, Gift, Black",
+    "ar_title": "FACEMADE 4 قطع ملاقط مجموعة، الفولاذ المقاوم للصدأ أداة ماكياج إزالة الشعر، هدية، أسود",
+    "description": "FACEMADE Tweezers are made of advanced stainless steel, durable and precise, and the tweezers are professionally designed, precise and fully aligned, so they can accurately clamp the root and remove short, sparse and thin eyebrows or ingrown hairs, which can reduce the pain during hair removal. FACEMADE tweezers has a portable design that makes it ideal for use at home, on the go and while traveling.",
+    "ar_description": "ملاقط FACEMADE مصنوعة من الفولاذ المقاوم للصدأ المتقدم ، متينة ودقيقة ، والملاقط مصممة بشكل احترافي ودقيق ومحاذاة تماما ، حتى يتمكنوا من تثبيت الجذر بدقة وإزالة الحواجب القصيرة والمتناثرة والرقيقة أو الشعر الناشئ ، مما يقلل من الألم أثناء إزالة الشعر. تتميز ملاقط FACEMADE بتصميم محمول يجعلها مثالية للاستخدام في المنزل وأثناء التنقل وأثناء السفر",
+    "price": 7.99,
+    "discountPercentage": 8.99,
+    "rating": 4.7,
+    "stock": 420,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 420,
+    "brand": "FACEMADE",
+    "category": "Beauty",
+    "thumbnail": "https://i5.walmartimages.com/seo/FACEMADE-6-Pcs-Triangle-Velour-Face-Powder-Puff-Set-with-Case-Wet-and-Dry-Use-Beauty-Makeup-Tool_c44022fe-be35-4de5-a051-809ea03726c0.3e606878bbca53ef70171a02ba5d6226.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "images": [
+      "https://i5.walmartimages.com/seo/FACEMADE-4-Pcs-Tweezers-Set-Stainless-Steel-Hair-Removal-Makeup-Tool-Gift-Black_43c8fbf0-37ab-4801-bf0c-315bf3050d01.f8f6ca95a69bc7c8645010853c5cb78a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/afa01d4f-462a-47f6-8997-d2609fb19b13.0ff101d7e2486c93af96568a187365d1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/0da8ef05-3f73-4a33-bf83-0bcfe0569e41.f6e20452ff432c4a40a7239c18ce39c0.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+    ]
+  }
+]

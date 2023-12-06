@@ -1,0 +1,237 @@
+[
+  {
+  
+  "cat_title": "electronics",
+  "ar_title": "إلكترونيات",
+  "sub_categories": [
+    {
+      "title": "TV & Video",
+      "ar_title": "أجهزة التلفزيون والفيديو",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-b035/k2-_9c76b273-177b-485f-a2c4-7be90ce92515.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "All Tv & Video",
+          "ar_title": "كل أجهزة التلفزيون والفيديو"
+        },
+        {
+          "title": "Smart TVs",
+          "ar_title": " أجهزة التلفزيون الحديثة"
+        },
+        {
+          "title": "Projectors and Screens",
+          "ar_title": " أجهزة العرض والشاشات"
+        },
+        {
+          "title": "Streaming",
+          "ar_title": "أجهزة البث"
+        },
+        {
+          "title": "TV Accessories ",
+          "ar_title": "مستلزمات التلفزيون "
+        }
+        
+      ]
+    },
+    {
+      "title": "Computers and Tablets",
+      "ar_title":"الكمبيوتر والتابلت",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-b035/k2-_9c76b273-177b-485f-a2c4-7be90ce92515.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "All Computers",
+          "ar_title": "كل أجهزة الكمبيوتر"
+          
+        },
+        {
+          "title": "Laptops",
+          "ar_title": "لابتوب"
+          
+        },
+        {
+          "title": "ipad & Tablets",
+          "ar_title": "آيباد و تابلت"
+          
+        },
+        {
+          "title": "Printers & Supplies",
+          "ar_title": "الطابعات والمستلزمات"
+          
+        },
+        {
+          "title": "Computer Software",
+          "ar_title": "برامج الكمبيوتر"
+          
+        }
+        
+      ]
+    },
+    {
+      "title": "Video Games",
+      "ar_title":" ألعاب الفيديو",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-4f82/k2-_b2e6d1a6-e1a6-4810-9202-d0ce004c5b33.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "All Video Games",
+          "ar_title": "كل ألعاب الفيديو"
+          
+        },
+        {
+          "title": "Xbox",
+          "ar_title": "اكس بوكس"
+          
+        },
+        {
+          "title": "PlayStation",
+          "ar_title": " بلاي ستيشن"
+          
+        },
+        {
+          "title": "Nintendo",
+          "ar_title": " نينتندو"
+          
+        },
+        {
+          "title": "Virtual Reality",
+          "ar_title": "الواقع الافتراضي"
+          
+        }
+        
+      ]
+    },
+    {
+      "title": "Audio",
+      "ar_title":"الأجهزة الصوتية",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-4f82/k2-_b2e6d1a6-e1a6-4810-9202-d0ce004c5b33.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "All Headphones & Speakers",
+          "ar_title": "كل السماعات والمكبرات"
+          
+        },
+        {
+          "title": "Airbods",
+          "ar_title": "اير بودز"
+          
+        },
+        {
+          "title": "Bluetooth Speakers",
+          "ar_title": "مكبرات البلوتوث"
+          
+        },
+        {
+          "title": "Sound Bars",
+          "ar_title": "أشرطة الصوت"
+          
+        },
+        {
+          "title": "Home Audio",
+          "ar_title": "صوتيات المنزل"
+          
+        }
+        
+      ]
+    },
+    {
+      "title": "Cell Phones",
+      "ar_title":"الأجهزة المحمولة",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-3817/k2-_299964db-052f-4043-a962-f0bc13e6ce34.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "All Cell Phones",
+          "ar_title": "كل الأجهزة المحمولة"
+          
+        },
+        {
+          "title": "iphone",
+          "ar_title": "آي فون"
+          
+        },
+        {
+          "title": "Samsung Galaxy Phones",
+          "ar_title": "موبايلات سامسونج جالاكسي"
+          
+        },
+        {
+          "title": "5G Phones",
+          "ar_title": "موبايلات الجيل الخامس"
+          
+        },
+        {
+          "title": "Cell Phones Accessories" ,
+          "ar_title": "مستلزمات الموبايلات "
+          
+        }
+        
+      ]
+    }
+  ]
+},
+{
+  "cat_title": "fashion",
+  "ar_title": "ازياء",
+  "sub_categories": [
+    {
+      "title": "women",
+      "ar_title": "ازياء نسائية",
+      "icon": "https://i5.walmartimages.com/dfw/4ff9c6c9-9022/k2-_a0ae7752-69ef-4f3f-8a9a-6292478fc0ae.v1.jpg?odnHeight=48&odnWidth=48&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "shop all",
+          "ar_title": "تسوق الجميع"
+        }
+      ]
+    }
+  ]
+},
+{
+  "cat_title": "groceries",
+  "ar_title": "البقالة",
+  "sub_categories": [
+    {
+      "title": "grocery",
+      "ar_title": "البقالة",
+      "icon":"https://i5.walmartimages.com/dfw/4ff9c6c9-95c3/k2-_59cf511c-9f69-4552-9f77-d35505be8c90.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "shop all",
+          "ar_title": "تسوق الجميع"
+        }
+      ]
+    }
+  ]
+},
+{
+  "cat_title": "fashion",
+  "ar_title": "ازياء",
+  "sub_categories": [
+    {
+      "title": "fashion",
+      "ar_title": "ازياء",
+      "icon":"https://i5.walmartimages.com/dfw/4ff9c6c9-95c3/k2-_59cf511c-9f69-4552-9f77-d35505be8c90.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "shop all",
+          "ar_title": "تسوق الجميع"
+        }
+      ]
+    }
+  ]
+},
+{
+  "cat_title": "kids",
+  "ar_title": "أطفال",
+  "sub_categories": [
+    {
+      "title": "kids",
+      "ar_title": "أطفال",
+      "icon":"https://i5.walmartimages.com/dfw/4ff9c6c9-95c3/k2-_59cf511c-9f69-4552-9f77-d35505be8c90.v1.jpg?odnHeight=290&odnWidth=290&odnBg=FFFFFF",
+      "sections": [
+        {
+          "title": "shop all",
+          "ar_title": "تسوق الجميع"
+        }
+      ]
+    }
+  ]
+}
+]

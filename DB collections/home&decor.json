@@ -1,0 +1,391 @@
+[
+    
+{
+    "_id": {
+      "$oid": "652f20925e2dbfaefc32a272"
+    },
+    "id": 26,
+    "title": "Plant Hanger For Home",
+    "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+    "price": 41,
+    "discountPercentage": 17.86,
+    "rating": 4.08,
+    "stock": 131,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Boho Decor",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg",
+      "https://i.dummyjson.com/data/products/26/3.jpg",
+      "https://i.dummyjson.com/data/products/26/4.jpg",
+      "https://i.dummyjson.com/data/products/26/5.jpg",
+      "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f20ae5e2dbfaefc32a273"
+    },
+    "id": 27,
+    "title": "Flying Wooden Bird",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "price": 51,
+    "discountPercentage": 15.58,
+    "rating": 4.41,
+    "stock": 17,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Flying Wooden",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg",
+      "https://i.dummyjson.com/data/products/27/3.jpg",
+      "https://i.dummyjson.com/data/products/27/4.jpg",
+      "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f20c15e2dbfaefc32a274"
+    },
+    "id": 28,
+    "title": "3D Embellishment Art Lamp",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "price": 20,
+    "discountPercentage": 16.49,
+    "rating": 4.82,
+    "stock": 54,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "LED Lights",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg",
+      "https://i.dummyjson.com/data/products/28/3.png",
+      "https://i.dummyjson.com/data/products/28/4.jpg",
+      "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f213e5e2dbfaefc32a275"
+    },
+    "id": 29,
+    "title": "Handcraft Chinese style",
+    "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+    "price": 60,
+    "discountPercentage": 15.34,
+    "rating": 4.44,
+    "stock": 7,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "luxury palace",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg",
+      "https://i.dummyjson.com/data/products/29/3.webp",
+      "https://i.dummyjson.com/data/products/29/4.webp",
+      "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f21535e2dbfaefc32a276"
+    },
+    "id": 30,
+    "title": "Key Holder",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "price": 30,
+    "discountPercentage": 2.92,
+    "rating": 4.92,
+    "stock": 54,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Golden",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg",
+      "https://i.dummyjson.com/data/products/30/3.jpg",
+      "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f21665e2dbfaefc32a277"
+    },
+    "id": 31,
+    "title": "Mornadi Velvet Bed",
+    "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+    "price": 40,
+    "discountPercentage": 17,
+    "rating": 4.16,
+    "stock": 140,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Furniture Bed Set",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/31/1.jpg",
+      "https://i.dummyjson.com/data/products/31/2.jpg",
+      "https://i.dummyjson.com/data/products/31/3.jpg",
+      "https://i.dummyjson.com/data/products/31/4.jpg",
+      "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f217a5e2dbfaefc32a278"
+    },
+    "id": 32,
+    "title": "Sofa for Coffe Cafe",
+    "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe",
+    "price": 50,
+    "discountPercentage": 15.59,
+    "rating": 4.74,
+    "stock": 30,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Ratttan Outdoor",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/32/1.jpg",
+      "https://i.dummyjson.com/data/products/32/2.jpg",
+      "https://i.dummyjson.com/data/products/32/3.jpg",
+      "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f218b5e2dbfaefc32a279"
+    },
+    "id": 33,
+    "title": "3 Tier Corner Shelves",
+    "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+    "price": 700,
+    "discountPercentage": 17,
+    "rating": 4.31,
+    "stock": 106,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Kitchen Shelf",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/33/1.jpg",
+      "https://i.dummyjson.com/data/products/33/2.jpg",
+      "https://i.dummyjson.com/data/products/33/3.jpg",
+      "https://i.dummyjson.com/data/products/33/4.jpg",
+      "https://i.dummyjson.com/data/products/33/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f21a05e2dbfaefc32a27a"
+    },
+    "id": 34,
+    "title": "Plastic Table",
+    "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+    "price": 50,
+    "discountPercentage": 4,
+    "rating": 4.01,
+    "stock": 136,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Multi Purpose",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/34/1.jpg",
+      "https://i.dummyjson.com/data/products/34/2.jpg",
+      "https://i.dummyjson.com/data/products/34/3.jpg",
+      "https://i.dummyjson.com/data/products/34/4.jpg",
+      "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f21b05e2dbfaefc32a27b"
+    },
+    "id": 35,
+    "title": "3 DOOR PORTABLE",
+    "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+    "price": 41,
+    "discountPercentage": 7.98,
+    "rating": 4.06,
+    "stock": 68,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "AmnaMart",
+    "category": "furniture",
+    "thumbnail": "https://i.dummyjson.com/data/products/35/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/35/1.jpg",
+      "https://i.dummyjson.com/data/products/35/2.jpg",
+      "https://i.dummyjson.com/data/products/35/3.jpg",
+      "https://i.dummyjson.com/data/products/35/4.jpg",
+      "https://i.dummyjson.com/data/products/35/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f27035e2dbfaefc32a2b8"
+    },
+    "id": 96,
+    "title": "lighting ceiling kitchen",
+    "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+    "price": 30,
+    "discountPercentage": 14.89,
+    "rating": 4.83,
+    "stock": 96,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "lightingbrilliance",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/96/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/96/1.jpg",
+      "https://i.dummyjson.com/data/products/96/2.jpg",
+      "https://i.dummyjson.com/data/products/96/3.jpg",
+      "https://i.dummyjson.com/data/products/96/4.jpg",
+      "https://i.dummyjson.com/data/products/96/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f27115e2dbfaefc32a2b9"
+    },
+    "id": 97,
+    "title": "Metal Ceramic Flower",
+    "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
+    "price": 35,
+    "discountPercentage": 10.94,
+    "rating": 4.93,
+    "stock": 146,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Ifei Home",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/97/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/97/1.jpg",
+      "https://i.dummyjson.com/data/products/97/2.jpg",
+      "https://i.dummyjson.com/data/products/97/3.jpg",
+      "https://i.dummyjson.com/data/products/97/4.webp",
+      "https://i.dummyjson.com/data/products/97/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f27205e2dbfaefc32a2ba"
+    },
+    "id": 98,
+    "title": "3 lights lndenpant kitchen islang",
+    "description": "3 lights lndenpant kitchen islang dining room pendant rice paper chandelier contemporary led pendant light modern chandelier",
+    "price": 34,
+    "discountPercentage": 5.92,
+    "rating": 4.99,
+    "stock": 44,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "DADAWU",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/98/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/98/1.jpg",
+      "https://i.dummyjson.com/data/products/98/2.jpg",
+      "https://i.dummyjson.com/data/products/98/3.jpg",
+      "https://i.dummyjson.com/data/products/98/4.jpg",
+      "https://i.dummyjson.com/data/products/98/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f272f5e2dbfaefc32a2bb"
+    },
+    "id": 99,
+    "title": "American Vintage Wood Pendant Light",
+    "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante",
+    "price": 46,
+    "discountPercentage": 8.84,
+    "rating": 4.32,
+    "stock": 138,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "Ifei Home",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/99/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/99/1.jpg",
+      "https://i.dummyjson.com/data/products/99/2.jpg",
+      "https://i.dummyjson.com/data/products/99/3.jpg",
+      "https://i.dummyjson.com/data/products/99/4.jpg",
+      "https://i.dummyjson.com/data/products/99/thumbnail.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "652f273f5e2dbfaefc32a2bc"
+    },
+    "id": 100,
+    "title": "Crystal chandelier maria theresa for 12 light",
+    "description": "Crystal chandelier maria theresa for 12 light",
+    "price": 47,
+    "discountPercentage": 16,
+    "rating": 4.74,
+    "stock": 133,
+    "retailer_id": {
+      "$oid": "6516e4c047159d92ba137d7c"
+    },
+    "quantity": 3,
+    "brand": "YIOSI",
+    "category": "lighting",
+    "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/100/1.jpg",
+      "https://i.dummyjson.com/data/products/100/2.jpg",
+      "https://i.dummyjson.com/data/products/100/3.jpg",
+      "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
+    ]
+  }
+]

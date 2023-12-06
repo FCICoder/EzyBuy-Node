@@ -1,0 +1,463 @@
+[{
+
+  "title": "iPhone X",
+  "ar_title": "ايفون X",
+  "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+  "ar_description": "بدون بطاقة SIM، موديل A19211 شاشة Super Retina HD مقاس 6.5 بوصة مع تقنية OLED وشريحة A12 Bionic مع ...",
+  "price": 891,
+  "discountPercentage": 9.94,
+  "rating": 4.44,
+  "stock": 34,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Apple",
+  "category": "electronics",
+  "sub_category": "iphone",
+  "thumbnail": "https://i5.walmartimages.com/seo/Straight-Talk-Apple-iPhone-12-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_13c78041-1924-47e7-a89e-c4ec8d218521.12baedee78d0e104f0fa17b4644663e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "images": [
+    "https://i5.walmartimages.com/seo/Straight-Talk-Apple-iPhone-12-64GB-Black-Prepaid-Smartphone-Locked-to-Straight-Talk_13c78041-1924-47e7-a89e-c4ec8d218521.12baedee78d0e104f0fa17b4644663e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+    "https://i.dummyjson.com/data/products/2/2.jpg",
+    "https://i.dummyjson.com/data/products/2/3.jpg",
+    "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+  ],
+  "updatedAt": {
+    "$date": "2023-11-16T16:24:26.165Z"
+  }
+},
+{
+  "title": "Samsung Universe 9",
+  "ar_title": "Samsung Universe 9",
+  "description": " البديل الجديد من سامسونج والذي يتجاوز المجرة إلى الكون الفسيح",
+  "price": 1249,
+  "discountPercentage": 15.46,
+  "rating": 4.09,
+  "stock": 36,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Samsung",
+  "category": "electronics",
+  "sub_category": "samsung",
+  "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+  "images": [
+    "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-S21-5G-G991U-128GB-Gray-Unlocked-Smartphone-Very-Refurbished-Good_d787310d-fa9e-43e5-a6db-873179956ec7.43028ea02433c82f9bc9108bae1fd33e.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+  ]
+},
+{
+ 
+  "title": "OPPOF19",
+  "ar_title": "OPPOF19",
+  "description": "OPPO F19 is officially announced on April 2021.",
+  "ar_description": ".سيتم الإعلان عن OPPO F19 رسميًا في أبريل 2024",
+  "price": 280,
+  "discountPercentage": 17.91,
+  "rating": 4.3,
+  "stock": 123,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "OPPO",
+  "category": "electronics",
+  "sub_category": "5G Phones",
+  "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+  "images": [
+    "https://i.dummyjson.com/data/products/4/1.jpg",
+    "https://i.dummyjson.com/data/products/4/2.jpg",
+    "https://i.dummyjson.com/data/products/4/3.jpg",
+    "https://i.dummyjson.com/data/products/4/4.jpg",
+    "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+  ]
+},
+{
+  
+  "title": "Huawei P30",
+  "ar_title": "Huawei P30",
+  "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+  "ar_description": "تم الكشف رسميًا عن الإصدار الجديد من P30 Pro من شركة Huawei أمس في ألمانيا والآن شق الجهاز طريقه إلى المملكة المتحدة.",
+  "price": 499,
+  "discountPercentage": 10.58,
+  "rating": 4.09,
+  "stock": 32,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Huawei",
+  "category": "electronics",
+  "sub_category": "5G Phones",
+  "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+  "images": [
+    "https://i.dummyjson.com/data/products/5/1.jpg",
+    "https://i.dummyjson.com/data/products/5/2.jpg",
+    "https://i.dummyjson.com/data/products/5/3.jpg"
+  ]
+},
+{
+  "title": "MacBook Pro",
+  "ar_title": "MacBook Pro ماك بوك برو",
+  "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+  "ar_description": "قد يتم إطلاق جهاز MacBook Pro 2021 المزود بشاشة Mini-LED بين سبتمبر ونوفمبر",
+  "price": 1749,
+  "discountPercentage": 11.02,
+  "rating": 4.57,
+  "stock": 83,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Apple",
+  "category": "laptops",
+  "sub_category": "Laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+  "images": [
+    "https://i.dummyjson.com/data/products/6/1.png",
+    "https://i.dummyjson.com/data/products/6/2.jpg",
+    "https://i.dummyjson.com/data/products/6/3.png",
+    "https://i.dummyjson.com/data/products/6/4.jpg"
+  ]
+},
+{
+
+  "title": "Samsung Galaxy Book",
+  "ar_title": "Samsung Galaxy Book",
+  "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+  "ar_description": "تم إطلاق الكمبيوتر المحمول Samsung Galaxy Book S (2020) المزود بشريحة Intel Lakefield وذاكرة الوصول العشوائي (RAM) سعة 8 جيجابايت",
+  "price": 1499,
+  "discountPercentage": 4.15,
+  "rating": 4.25,
+  "stock": 50,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Samsung",
+  "category": "laptops",
+  "sub_category": "Laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+  "images": [
+    "https://i.dummyjson.com/data/products/7/1.jpg",
+    "https://i.dummyjson.com/data/products/7/2.jpg",
+    "https://i.dummyjson.com/data/products/7/3.jpg",
+    "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+  ]
+},
+{
+ 
+  "title": "Microsoft Surface Laptop 4",
+  "ar_title": "Microsoft Surface Laptop 4",
+  "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+  "ar_description": "الأسلوب والسرعة. تميز في مكالمات الفيديو عالية الدقة المدعومة بميكروفونات Studio. التقط الأفكار على شاشة اللمس النابضة بالحياة.",
+  "price": 1499,
+  "discountPercentage": 10.23,
+  "rating": 4.43,
+  "stock": 68,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Microsoft Surface",
+  "category": "laptops",
+  "sub_category": "Laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+  "images": [
+    "https://i.dummyjson.com/data/products/8/1.jpg",
+    "https://i.dummyjson.com/data/products/8/2.jpg",
+    "https://i.dummyjson.com/data/products/8/3.jpg",
+    "https://i.dummyjson.com/data/products/8/4.jpg",
+    "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+  ]
+},
+{
+  "title": "Infinix INBOOK",
+  "ar_title": "انفنكس انبوك ",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+  "ar_description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 رمادي - ضمان لمدة سنة واحدة",
+  "price": 1099,
+  "discountPercentage": 11.83,
+  "rating": 4.54,
+  "stock": 96,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "Infinix",
+  "category": "laptops",
+  "sub_category": "Laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+  "images": [
+    "https://i.dummyjson.com/data/products/9/1.jpg",
+    "https://i.dummyjson.com/data/products/9/2.png",
+    "https://i.dummyjson.com/data/products/9/3.png",
+    "https://i.dummyjson.com/data/products/9/4.jpg",
+    "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+  ]
+},
+{
+
+  "title": "HP Pavilion 15-DK1056WM",
+  "ar_title": "اتش بي بافليون 15-DK1056WM",
+  "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+  "ar_description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+  "price": 1099,
+  "discountPercentage": 6.18,
+  "rating": 4.43,
+  "stock": 89,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 3,
+  "brand": "HP Pavilion",
+  "category": "laptops",
+  "sub_category": "Laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+  "images": [
+    "https://i.dummyjson.com/data/products/10/1.jpg",
+    "https://i.dummyjson.com/data/products/10/2.jpg",
+    "https://i.dummyjson.com/data/products/10/3.jpg",
+    "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+  ]
+},
+
+{
+ 
+  "title": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+  "ar_title": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+  "description": "Parental Controls: manage responsible internet access for your children\nGuest Network|: provides separate access for guests while securing the home network\nFirewall Security: supports DoS, SPI Firewall, IP Addressing/Domain Filter, IP/MAC Address Binding\nQuality of Service: prioritizes network traffic by device or application, IPv6: compatible with IPv6 (Internet Protocol version 6)\nIPTV IGMP Proxy/Snooping: supports Bridge and Tag VLAN for smooth IPTV application, Multilingual Interface: provides hassle-free configuration in six languages (EN/DE/IT/TR/RU/PO)",
+  "ar_description": "أدوات الرقابة الأبوية: إدارة الوصول المسؤول إلى الإنترنت لأطفالك\nشبكة الضيوف|: توفر وصولاً منفصلاً للضيوف أثناء تأمين الشبكة المنزلية\nأمان جدار الحماية: يدعم DoS وجدار حماية SPI وعنونة IP/عامل تصفية المجال وربط عنوان IP/MAC\nجودة الخدمة : يعطي الأولوية لحركة مرور الشبكة حسب الجهاز أو التطبيق، IPv6: متوافق مع IPv6 (إصدار بروتوكول الإنترنت 6)\nIPTV IGMP Proxy/Snooping: يدعم Bridge وTag VLAN لتطبيق IPTV السلس، واجهة متعددة اللغات: توفر تكوينًا خاليًا من المتاعب بست لغات (EN) /DE/IT/TR/RU/PO)",
+  "price": 1699,
+  "discountPercentage": 6.7,
+  "rating": 3.2,
+  "stock": 399,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 399,
+  "brand": "Canon",
+  "category": "electronics",
+  "sub_category": "Printers & Supplies",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://www.shoppingexpress.com.au/assets/alt_2/ARCHERVR300.jpg?20210318055042",
+    "https://www.netstar.com.bd/wp-content/uploads/2021/02/tp-link-archer-c6-ac1200-gigabit-router-2.png",
+    "https://media.loot.co.za/static/gallery/details/j/x/k/jxks-6417-g640/detail.jxks-6417-g640.1.jpg"
+  ]
+},
+{
+  "title": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+  "ar_title": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+  "description": "photos with a maximum print-color resolution of 4800 x 1200 dpi using FINE printhead technology. AirPrint allows you to print directly from your iPhone\niPad or iPod touch wirelessly while built-in Wi-Fi technology allows you to print and scan wirelessly from virtually anywhere around your small office\nEnvironmentally friendly, Auto Duplex Printing allows you to automatically print on both sides of paper to reduce paper usage. Full HD Movie Print turns fav\nInnovative intelligence helps to achieve consistent results\nEasy and smooth to use as per convenience\nIt is designed keeping your choice and requirement in mind",
+  "ar_description": "صور ذات دقة ألوان طباعة قصوى تبلغ 4800 × 1200 نقطة لكل بوصة باستخدام تقنية رأس الطباعة FINE. يتيح لك AirPrint الطباعة مباشرة من جهاز iPhone\niPad أو iPod touch لاسلكيًا بينما تسمح لك تقنية Wi-Fi المدمجة بالطباعة والمسح الضوئي لاسلكيًا من أي مكان تقريبًا حول مكتبك الصغير\nتسمح لك الطباعة التلقائية على الوجهين، وهي صديقة للبيئة، بالطباعة تلقائيًا على كلا وجهي الورق لتقليل استخدام الورق. أصبحت طباعة الأفلام عالية الدقة بالكامل مفضلة\nالذكاء المبتكر يساعد على تحقيق نتائج متسقة\nسهل الاستخدام وسلس حسب الراحة\nتم تصميمه مع وضع اختيارك ومتطلباتك في الاعتبار",
+  "price": 5999,
+  "discountPercentage": 6.7,
+  "rating": 4.5,
+  "stock": 400,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 400,
+  "brand": "Canon",
+  "category": "electronics",
+  "sub_category": "Printers & Supplies",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://tehnomag.com/upload/catalog/product/3302/-0002-1cjpg_60fa8f1b04cc9.jpg",
+    "https://www.pmcsb.com.my/image/pmcsb/image/cache/data/all_product_images/product-1812/CwGh06oa1619265088-420x420.jpg",
+    "https://th.bing.com/th/id/R.4f5d84d7f13a3e62c865800b3c9fa5d5?rik=JXyTyDQUHKkOGw&riu=http%3a%2f%2fhamdanelectronics.com%2f11269-medium_default%2fcanon-pixma-ts3140-3-in-1-wireless-printer-lcd-display-black.jpg&ehk=AIXI3lSB3Y%2fQP%2fusM7%2bETjRslyfFaT8Ho%2b08Spci9Ak%3d&risl=&pid=ImgRaw&r=0",
+    "https://img.vistek.net/prodimgalt/large/265260_2.jpg?tr=w-495,h-495"
+  ]
+},
+{
+ 
+  "title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+  "ar_title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+  "description": "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200)\ndigic 8 image processor with auto lighting optimizer\nimproved dual pixel cmos af and eye detection af (still/movie servo af support)\n4k uhd 24p and hd 120p for slow motion\nvari-angle touchscreen lcd convenient for vlogging and various composition",
+  "ar_description": "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200)\ndigic 8 image processor with auto lighting optimizer\nimproved dual pixel cmos af and eye detection af (still/movie servo af support)\n4k uhd 24p and hd 120p for slow motion\nvari-angle touchscreen lcd convenient for vlogging and various composition",
+  "price": 19699,
+  "discountPercentage": 12.6,
+  "rating": 4.3,
+  "stock": 600,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 600,
+  "brand": "Canon",
+  "category": "electronics",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://th.bing.com/th/id/OIP.rc_Q92pGumRzho7AGd3bSwHaHa?pid=ImgDet&w=650&h=650&rs=1",
+    "https://johnlewis.scene7.com/is/image/JohnLewis/237415927?$rsp-pdp-port-640$",
+    "https://www.diamondscamera.com.au/images/ProductImages/113434.jpg",
+    "https://www.castlecameras.co.uk/images/products/large/12123.jpg"
+  ]
+},
+{
+  "title": "PS5 DualSense Charging Station",
+  "ar_title": "محطة شحن PS5 DualSense",
+  "description": "Charge up to two DualSense Wireless Controllers at the same time without having to connect them to your PlayStation 5 Console\nYour Controllers charge as quickly as when connected to your PS5 Console – so you can free up USB ports without sacrificing performance\nDock your DualSense Wireless Controllers quickly and easily with the charging station’s click-in design and leave them to charge at your convenience",
+  "ar_description": "اشحن ما يصل إلى وحدتي تحكم DualSense اللاسلكية في نفس الوقت دون الحاجة إلى توصيلهما بوحدة تحكم PlayStation 5 الخاصة بك\nيتم شحن وحدات التحكم الخاصة بك بنفس السرعة عند توصيلها بوحدة تحكم PS5 الخاصة بك - حتى تتمكن من تحرير منافذ USB دون التضحية بالأداء\nإرساء DualSense Wireless يمكنك التحكم بسرعة وسهولة من خلال تصميم محطة الشحن التي يمكن النقر عليها واتركها ليتم شحنها حسب راحتك",
+  "price": 1045,
+  "discountPercentage": 3.89,
+  "rating": 5,
+  "stock": 600,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 600,
+  "brand": "Samsung",
+  "category": "electronics",
+  "sub_category": "PlayStation",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://external-preview.redd.it/_9ODuGmD0OfpZ3C1cy3WCiwS1CZPdiwIenNMjkp64GI.jpg?width=960&crop=smart&auto=webp&s=5c2177c127d3deb17ca2ab990e4674fea8b07947"
+  ]
+},
+{
+  "title": "Galaxy Buds 2 Graphite",
+  "ar_title": "Galaxy Buds 2 Graphite",
+  "description": "Galaxy Buds 2 come up to 20 hours of playback time with active noise cancellation (ANC) turned on\nThe TWS earphones appear to have a total of three microphones and an integrated voice recording unit for high quality calls\nThe charging case offers an additional 15 hours worth of battery life\nGalaxy Buds2 ear buds take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band\nGalaxy Buds2 have a comfortable, low profile design that's 10% smaller and lighter than Galaxy Buds+; You may get to the end of your playlist before you remember you're wearing them at all\nThe earbuds’ 3 microphones and noise reduction technology ensures voices are transmitted crisply and clearly, whether you're chatting with a friend or leading a high stakes conference call",
+  "ar_description": "يأتي Galaxy Buds 2 بما يصل إلى 20 ساعة من وقت التشغيل مع تشغيل إلغاء الضوضاء النشط (ANC)\nيبدو أن سماعات TWS تحتوي على إجمالي ثلاثة ميكروفونات ووحدة تسجيل صوت مدمجة للمكالمات عالية الجودة\nتوفر علبة الشحن 15 ميكروفونًا إضافيًا عمر بطارية يساوي ساعات\nتأخذ سماعات الأذن Galaxy Buds2 شغفك بالموسيقى إلى آفاق جديدة مع الصوت المزدهر الذي يجعلك تشعر وكأنك على المسرح مع فرقتك المفضلة\nتتمتع Galaxy Buds2 بتصميم مريح ومنخفض الحجم أصغر بنسبة 10% أخف من Galaxy Buds+؛ قد تصل إلى نهاية قائمة التشغيل الخاصة بك قبل أن تتذكر أنك ترتديها على الإطلاق\nتضمن الميكروفونات الثلاثة وتقنية تقليل الضوضاء في سماعات الأذن نقل الأصوات بوضوح ووضوح، سواء كنت تتحدث مع صديق أو تقود مخاطرات كبيرة مكالمة مؤتمرية",
+  "price": 3999,
+  "discountPercentage": 3.89,
+  "rating": 4.7,
+  "stock": 600,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 600,
+  "brand": "Sony",
+  "category": "electronics",
+  "sub_category": "Airbods",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://th.bing.com/th/id/OIP._-yN_618LsG9VKcSKyxJ_AHaE8?pid=ImgDet&rs=1",
+    "https://img.fruugo.com/product/0/28/140313280_max.jpg",
+    "https://ae01.alicdn.com/kf/Sbbc375126a4d4926b678503f90f65450c/For-Ambie-Sound-Earcuffs-1-1-Ear-Earring-Wireless-Bluetooth-Earphones-Auriculares-Headset-TWS-Sport-Earbuds.jpg"
+  ]
+},
+{
+  "title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+  "ar_title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+  "description": "Galaxy Buds 2 come up to 20 hours of playback time with active noise cancellation (ANC) turned on\nThe TWS earphones appear to have a total of three microphones and an integrated voice recording unit for high quality calls\nThe charging case offers an additional 15 hours worth of battery life\nGalaxy Buds2 ear buds take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band\nGalaxy Buds2 have a comfortable, low profile design that's 10% smaller and lighter than Galaxy Buds+; You may get to the end of your playlist before you remember you're wearing them at all\nThe earbuds’ 3 microphones and noise reduction technology ensures voices are transmitted crisply and clearly, whether you're chatting with a friend or leading a high stakes conference call",
+  "ar_description": "يأتي Galaxy Buds 2 بما يصل إلى 20 ساعة من وقت التشغيل مع تشغيل إلغاء الضوضاء النشط (ANC)\nيبدو أن سماعات TWS تحتوي على إجمالي ثلاثة ميكروفونات ووحدة تسجيل صوت مدمجة للمكالمات عالية الجودة\nتوفر علبة الشحن 15 ميكروفونًا إضافيًا عمر بطارية يساوي ساعات\nتأخذ سماعات الأذن Galaxy Buds2 شغفك بالموسيقى إلى آفاق جديدة مع الصوت المزدهر الذي يجعلك تشعر وكأنك على المسرح مع فرقتك المفضلة\nتتمتع Galaxy Buds2 بتصميم مريح ومنخفض الحجم أصغر بنسبة 10% أخف من Galaxy Buds+؛ قد تصل إلى نهاية قائمة التشغيل الخاصة بك قبل أن تتذكر أنك ترتديها على الإطلاق\nتضمن الميكروفونات الثلاثة وتقنية تقليل الضوضاء في سماعات الأذن نقل الأصوات بوضوح ووضوح، سواء كنت تتحدث مع صديق أو تقود مخاطرات كبيرة مكالمة مؤتمرية",
+  "price": 1986,
+  "discountPercentage": 3.89,
+  "rating": 4.7,
+  "stock": 600,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 600,
+  "brand": "Sony",
+  "category": "electronics",
+  "sub_category": "Airbods",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://th.bing.com/th/id/OIP.gS1e_xiTSZD0hh4ngWh-RAHaGc?pid=ImgDet&w=550&h=479&rs=1",
+    "https://th.bing.com/th/id/R.8fb4666df5c7184a095e45746977439d?rik=ZM8cpWVd%2fjEoZA&riu=http%3a%2f%2fwww.elfinternationalltd.com%2fimages%2fproducts%2fSO-MDR-ZX220BLACK(PIC)-3381.jpg&ehk=RJ69i79uucvqPrRUQn%2bl%2b1rqvJ23CJEjBYxH06jh0gA%3d&risl=&pid=ImgRaw&r=0",
+    "https://swiftbox.in/wp-content/uploads/2020/09/Sony-WH-1000XM4-Noise-Cancelling-Wireless-Bluetooth-Headphones-with-Mic-13.jpg"
+  ]
+},
+{
+
+  "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+  "ar_title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+  "description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+  "ar_description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+  "price": 42960,
+  "discountPercentage": 3.89,
+  "rating": 4.7,
+  "stock": 253,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 253,
+  "brand": "Dell",
+  "category": "electronics",
+  "sub_category": "Laptops",
+
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1663347402/Croma%20Assets/Computers%20Peripherals/Laptop/Images/252183_12_ibjdn3.png?tr=w-640",
+    "https://atreboot.com/wp-content/uploads/2022/09/hp-victus-fa0031dx-12thgen-ci5-gtx1650-gaming-laptop-rates-in-pakistan_11zon.png",
+    "https://961souq.com/cdn/shop/files/Lenovo-LOQ-15IRH8-82XV002LUS-4_435b8194-82b7-477c-a728-877915ff8ee9_1024x1024.jpg?v=1692710882"
+  ]
+},
+{
+
+  "title": "5520-G15 Gaming Laptop With 15.6 Inch Intel Core i7-12700H/16GB RAM/512 GB SSD/6 GB Nvidia GeForce RTX 3060 Series/Ubuntu English Black/Dark Shadow Grey",
+  "ar_title": "5520-G15 Gaming Laptop With 15.6 Inch Intel Core i7-12700H/16GB RAM/512 GB SSD/6 GB Nvidia GeForce RTX 3060 Series/Ubuntu English Black/Dark Shadow Grey",
+  "description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+  "ar_description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+  "price": 42960,
+  "discountPercentage": 9.94,
+  "rating": 4.7,
+  "stock": 253,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 253,
+  "brand": "Dell",
+  "category": "electronics",
+  "sub_category": "Laptops",
+
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://media.croma.com/image/upload/v1683554072/Croma%20Assets/Computers%20Peripherals/Laptop/Images/252789_20_opgoi2.png",
+    "https://www.thepcwholesale.com/wp-content/uploads/2020/09/73371829_6857236554-scaled.jpg",
+    "https://m.media-amazon.com/images/I/51+S41u+geS._SX569_.jpg"
+  ]
+},
+{
+
+  "title": "Laptop Ideapad-Gaming-3-15Imh05 15.6 Inch FHD Intel Core i7 10750H 16GB RAM 1TB HHD + 256GB SSD 4GB Nvidia Geforce Gtx 1650 Ti DDR6 DosOnyx English/Arabic Black",
+  "ar_title": "Laptop Ideapad-Gaming-3-15Imh05 15.6 Inch FHD Intel Core i7 10750H 16GB RAM 1TB HHD + 256GB SSD 4GB Nvidia Geforce Gtx 1650 Ti DDR6 DosOnyx English/Arabic Black",
+  "description": "Processor Information 10Gen Intel CoreI7-10750H 12M Cache, Up To 5.00 Ghz\nGraphic Card Nvidia Geforce Gtx 1650It 4 Gb\nStereo Speakers, 1.5W X2, Dolby Audio",
+  "ar_description": "Processor Information 10Gen Intel CoreI7-10750H 12M Cache, Up To 5.00 Ghz\nGraphic Card Nvidia Geforce Gtx 1650It 4 Gb\nStereo Speakers, 1.5W X2, Dolby Audio",
+  "price": 27865,
+  "discountPercentage": 9.94,
+  "rating": 4.8,
+  "stock": 253,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 253,
+  "brand": "Lenovo",
+  "category": "electronics",
+  "sub_category": "Laptops",
+
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://th.bing.com/th/id/OIP.1v03SV_u23ysH1GOAqb_TgHaHa?pid=ImgDet&w=1000&h=1000&rs=1",
+    "https://th.bing.com/th/id/OIP.AvXFaNX6G57BQjJZk9jMjAHaHa?pid=ImgDet&w=474&h=474&rs=1",
+    "https://th.bing.com/th/id/OIP.9Dj7emmMKObTcCeYAB9lHQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+  ]
+},
+{
+
+  "title": "43 Inch LED TV Full HD with Built-In Receiver, 2 HDMI and 2 USB Inputs 43L3965EA Black",
+  "ar_title": "43 Inch LED TV Full HD with Built-In Receiver, 2 HDMI and 2 USB Inputs 43L3965EA Black",
+  "description": "Analyzing original content with an advanced algorithm Ultra Clean View gives you higher quality images\nWatch your favourite content with natural colours that deliver details as crisp as the real thing\nThis beautifully slim design melts into any existing décor and elevates the style without taking it over\nThe sleek One Remote Control keeps it simple\nDelivers superior picture quality with enhanced color purity\nEnjoy rich, flawless, multi-dimensional audio as the built-in speakers on your TV deliver sound from all angles\nMaintains accurate color, even from the sides, and allows everyone to enjoy the realistic picture\nWe think inside, outside and about the box. Thus, our packaging lives up to the brand image and the quality of the product",
+  "ar_description": "يمنحك تحليل المحتوى الأصلي باستخدام خوارزمية متقدمة Ultra Clean View صورًا ذات جودة أعلى\nشاهد المحتوى المفضل لديك بألوان طبيعية تقدم تفاصيل واضحة مثل الشيء الحقيقي\nيندمج هذا التصميم النحيف الجميل مع أي ديكور موجود ويرفع من النمط دون الاستيلاء عليه \nجهاز التحكم عن بعد الأنيق يبقي الأمر بسيطًا\nيوفر جودة صورة فائقة مع نقاء ألوان محسّن\nاستمتع بصوت غني وخالي من العيوب ومتعدد الأبعاد حيث توفر مكبرات الصوت المدمجة في التلفزيون الصوت من جميع الزوايا\nيحافظ على دقة الألوان، حتى من الجوانب، وتسمح للجميع بالاستمتاع بالصورة الواقعية\nنحن نفكر داخل الصندوق وخارجه وحوله. وبالتالي، فإن عبواتنا ترقى إلى مستوى صورة العلامة التجارية وجودة المنتج",
+  "price": 8999,
+  "discountPercentage": 8.89,
+  "rating": 4.9,
+  "stock": 350,
+  "retailer_id": {
+    "$oid": "6516e4c047159d92ba137d7c"
+  },
+  "quantity": 350,
+  "brand": "Toshiba",
+  "category": "electronics",
+  "sub_category": "TV",
+  "thumbnail": "https://beebom.com/wp-content/uploads/2019/04/Untitled-design-1.jpg?quality=75&strip=all",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0459/0882/0125/products/left-45_1600x.jpg?v=1622315342",
+    "https://images-na.ssl-images-amazon.com/images/I/21yj3QGP-jL.jpg",
+    "https://th.bing.com/th/id/OIP.nyIC9g1IKKBytufHNEyRegHaG1?pid=ImgDet&rs=1"
+  ]
+}
+]
